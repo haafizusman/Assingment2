@@ -1,0 +1,46 @@
+body {
+    background-color: cadetblue;
+}
+.cntr {
+    text-align: center;
+}
+
+.all{
+    background-color: cadetblue;
+}
+
+input {
+    width: 500px;
+    font-weight: bold;
+    border-radius: 8px;
+}
+
+button {
+    width: 100px;
+    border-radius: 8px;
+    font-weight: bold;
+}
+select {
+    width: 70px;
+    border-radius: 8px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+h1{
+    font-family: 'Courier New', Courier, monospace;
+}
+h2 {
+    font-family: cursive;
+}
+
+#main {
+
+    background-color: lavender;
+    width: 600px;
+    height: 400px;
+    margin: 0 auto;
+    margin-top: 50px;
+    text-align: center;
+    font-size: 1.2em;
+}
+
